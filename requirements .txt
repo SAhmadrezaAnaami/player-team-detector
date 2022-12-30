@@ -1,0 +1,4 @@
+python==3.10.7 or lower **
+opencv-python==4.6.0.66
+
+# Created by Ahmadreza Anaami
